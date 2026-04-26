@@ -13,7 +13,7 @@ Interactive Streamlit web application
 Reproducible project structure
 
 # Model Performance
-| # Model             |  Accuracy  |  F1 Score (Spam)   |
+|   Model             |  Accuracy  |  F1 Score (Spam)   |
 | ------------------- | ---------- | ------------------ |
 | Naive Bayes         | **97.2%**  | **95.1%**          |
 | Logistic Regression | **98.4%**  | **97.3%**          |
